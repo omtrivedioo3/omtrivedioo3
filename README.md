@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Trivedi</h1>
-<h3 align="center">Software Engineer | Backend & Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
 Building scalable APIs, cloud applications, and real-time systems.
