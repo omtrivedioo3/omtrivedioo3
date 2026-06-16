@@ -13,7 +13,7 @@ Building scalable APIs, cloud applications, and real-time systems.
 
 ## 🚀 About Me
 
-- 💼 Associate Software Engineer at **Synoptek**
+- 💼 Software Apprentice at **Google**
 - 🔧 Experienced in **.NET, MERN Stack, REST APIs, Microservices**
 - ☁️ Working with **AWS, Google Cloud & Docker**
 - 🧠 Strong in **Data Structures & Algorithms**
