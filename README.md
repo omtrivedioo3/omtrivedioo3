@@ -41,55 +41,55 @@ om = {
 Building AI-driven backend services on GCP · LLMs, RAG pipelines, vector databases · Agentic AI workflows · 5+ GCP services (Vertex AI, Cloud Run, BigQuery)
 </td>
 </tr>
+
 <tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td width="60px" align="center"><img src="https://img.shields.io/badge/S-0078D4?style=for-the-badge&logoColor=white" width="50"/></td>
 <td>
-<strong>Synoptek</strong> — Associate Software Engineer <br/>
-<em>Oct 2025 – Mar 2026 · Ahmedabad, India</em><br/>
-20+ REST APIs in .NET Core · 100k+ record data pipelines on BigQuery · AWS + GCP deployments · CI/CD with Docker & GitHub Actions (30% faster deploys)
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="60px" align="center"><img src="https://img.shields.io/badge/S-0078D4?style=for-the-badge&logoColor=white" width="50"/></td>
-<td>
-<strong>Synoptek</strong> — Software Developer Intern <br/>
-<em>Jan 2025 – Sep 2025 · Ahmedabad, India</em><br/>
-REST APIs with Node.js/Express & .NET Core · Serverless AWS (Lambda, API Gateway, S3, RDS) · MERN stack full-stack features
+<strong>Synoptek</strong> — Software Developer Intern → Associate Software Engineer <br/>
+<em>Jan 2025 – Mar 2026 · Ahmedabad, India</em><br/>
+20+ REST APIs using Java, Spring Boot & Node.js · Microservices & Clean Architecture · 100k+ record data processing on BigQuery · Docker, CI/CD & GCP deployments
 </td>
 </tr>
 </table>
+
+
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,cs,ts" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
 </p>
 
 ### Backend & AI
+
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-| Domain | Technologies |
-|--------|-------------|
-| **AI / GenAI** | LLMs · RAG Pipelines · Vector Databases · Agentic Workflows · Prompt Engineering · Vertex AI |
-| **Backend** | REST APIs · Microservices · Clean Architecture · .NET Core · Node.js/Express · Distributed Systems |
-| **Data Pipelines** | Google BigQuery · SQL Server · ETL Pipelines · Apache Airflow · Large-scale Data Processing |
+| Domain             | Technologies                                                                                                     |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| **AI / GenAI**     | LLMs · RAG Pipelines · Agentic Workflows · Vector Databases · Prompt Engineering                                 |
+| **Backend**        | Spring Boot · Spring Data JPA · Hibernate · REST APIs · Microservices · Clean Architecture · Distributed Systems |
+| **Data Pipelines** | Google BigQuery · SQL Server · ETL Pipelines · Large-scale Data Processing                                       |
 
 ### Cloud & DevOps
+
 <p>
 <img src="https://skillicons.dev/icons?i=gcp,aws,docker,githubactions,git" />
 </p>
 
 ### Databases & Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,react,angular" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,react,angular" />
 </p>
+
 
 ---
 
@@ -136,7 +136,7 @@ REST APIs with Node.js/Express & .NET Core · Serverless AWS (Lambda, API Gatewa
 | Achievement | Details |
 |-------------|---------|
 | ⚔️ **LeetCode Knight** | Consistently solved 1800+ rated problems |
-| 🟦 **Codeforces Specialist** | 2000+ problems solved · Top-rated globally |
+| 🟦 **Codeforces Specialist** | 1000+ problems solved · Top-rated globally |
 | 🏅 **TCS CodeVita Season 11** | **Global Rank 894** / 100,000+ participants — [Certificate](https://drive.google.com/file/d/1eA-jl-6Yk0sZut1Dxg45iO9s408iCYWX/view?usp=sharing) |
 | 🥈 **SSIP Hackathon 2023** | Runners-up among 100+ teams |
 
